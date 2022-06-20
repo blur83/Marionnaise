@@ -1,0 +1,14 @@
+#: locale=fr
+
+## Media
+
+### Title
+panorama_6500A3C1_6B45_B083_41C1_8BC3A09F544E.label = Mar_0061
+panorama_605EFEA9_6B47_9083_41C1_09EC129F9E48.label = Mar_0110
+
+## Tour
+
+### Description
+
+### Title
+tour.name = test
